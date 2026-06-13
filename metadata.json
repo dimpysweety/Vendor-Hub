@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Platform",
+  "description": "A full-stack e-commerce marketplace featuring user roles, JWT authentication, search, shopping cart, and orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
